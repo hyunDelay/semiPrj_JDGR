@@ -19,12 +19,13 @@
 <div>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" height="25px" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25px" />
+<img src="https://img.shields.io/badge/Jsp-dddddd?style=flat&logo=&logoColor=white" height="25px" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="25px" />
 </div><br>
 
 > **Back**
 <div>
-<img src="https://img.shields.io/badge/JAVA (Servlet)-056db6?style=flat&logo=&logoColor=white" height="25px" />
+<img src="https://img.shields.io/badge/JAVA 11 (Servlet)-056db6?style=flat&logo=&logoColor=white" height="25px" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="25px" />
 </div><br>
 
