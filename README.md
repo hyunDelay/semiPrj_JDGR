@@ -54,7 +54,12 @@
 
 <br><br>
 
-### 💡 기능
+### ✔ Erd Cloud
+![JDGR-erd](https://github.com/hilmaf/gamepound/assets/142950442/faefc24e-e3fc-4ea6-9ca5-a272aa39271b)
+[Erd Cloud Url : https://www.erdcloud.com/d/ZD9J7BCrh5YAZhZuZ](https://www.erdcloud.com/d/ZD9J7BCrh5YAZhZuZ)
+<br><br>
+
+### 💡 기능 담당
 |사용자|관리자|
 |---|---|
 |블로그<br>- 카테고리 생성 및 조회<br>- 블로그 사용자 정보 조회<br>- 블로그 설정(수정)<br>- 블로그 생성|블로그 관리 목록 조회<br>블로그 관리 수정|
