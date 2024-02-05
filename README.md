@@ -10,7 +10,7 @@
 |현지연|양덕기|김광희|이예지|박범렬|전옥진|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[@hyunDelay](https://github.com/hyunDelay)|[@asd5361](https://github.com/asd5361)|[@KimGwanghui](https://github.com/KimGwanghui)|[@leeyeji803](https://github.com/leeyeji803)|[@ryeol3621](https://github.com/ryeol3621)|[@JEONOKJIN](https://github.com/JEONOKJIN)|
-|Leader Developer|DB Manager Developer<br>SCM Developer|Issue Manager Developer||Test Manager Developer|Plan Manager Developer|
+|Leader Developer|DB Manager Developer|Issue Manager Developer|SCM Developer|Test Manager Developer|Plan Manager Developer|
 |1. 블로그 생성,수정<br>2. 내 블로그 꾸미기<br>3. 포스트 등록,수정,삭제<br>4. 댓글 조회,등록,수정,삭제|1. 관리자<br>2. 고객센터<br>3. [관리자]유저 신고<br>4. [관리자]유저 제재|[사용자] 유저 신고|포스트 리스트 조회|1. 회원가입<br>2. 로그인<br>3. 아이디찾기<br>4. 비밀번호찾기<br>5. 메일인증<br>6. 마이페이지|포스트 상세보기|
 
 ### 💻 개발 환경
